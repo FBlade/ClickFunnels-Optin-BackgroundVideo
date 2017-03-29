@@ -15,8 +15,8 @@ $( document ).ready(function() {
 
     var v="";
    v += "<video poster=\"https:\/\/i.imgsafe.org\/b7bfcb6e7e.jpg\" id=\"bgvid\" playsinline autoplay muted loop data-state=\"playing\">";
-   v += "<source src=\"https:\/\/mindsetsamurai.com\/ClickFunnels-Optin-BackgroundVideo\/v1.mp4\" type=\"video\/webm\">";
-   v += "<source src=\"https:\/\/mindsetsamurai.com\/ClickFunnels-Optin-BackgroundVideo\/v1.webm\" type=\"video\/mp4\">";
+   v += "<source src=\"https:\/\/mindsetsamurai.com\/ClickFunnels-Optin-BackgroundVideo\/video\/v1.mp4\" type=\"video\/webm\">";
+   v += "<source src=\"https:\/\/mindsetsamurai.com\/ClickFunnels-Optin-BackgroundVideo\/video\/v1.webm\" type=\"video\/mp4\">";
    v += "<\/video>";
 
 
