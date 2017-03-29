@@ -1,5 +1,5 @@
-# ClickFunnels Optin with Background Video
-
+# ClickFunnels Optin with Background Video  
+[![App](https://img.shields.io/badge/Target_Platform-ClickFunnels-red.svg)](https://www.mindsetsamurai.com)
 
 Use:  
 Just add script block at **Tracking Code > Footer Code**
