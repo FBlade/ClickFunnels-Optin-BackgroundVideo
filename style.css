@@ -41,6 +41,6 @@ a:hover{
   div{width:100%;}
 }
 @media screen and (max-device-width: 800px) {
-  html { background: url('https://mindsetsamurai.com/ClickFunnels-Optin-BackgroundVideo/video/minsetsamurai_big.jpg') #000 no-repeat center center fixed; }
+  html { background: url(https://mindsetsamurai.com/ClickFunnels-Optin-BackgroundVideo/video/minsetsamurai_big.jpg) #000 no-repeat center center fixed; }
   /*#bgvid { display: none; }*/
 }
