@@ -19,7 +19,7 @@ $( document ).ready(function() {
         v += "<source src=\"https:\/\/www.dropbox.com\/s\/11h3sttgfq37xf4\/background%20loop.mp4?dl=1\" type=\"video\/mp4\">";
         v += "<\/video>";
 
-        $('.noTopMargin').prepend(v);
+        $('.containerWrapper').prepend(v);
         $('body').css('background','rgba(0, 0, 0, 0.1)');
 
 
