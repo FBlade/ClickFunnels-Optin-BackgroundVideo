@@ -8,7 +8,7 @@ $( document ).ready(function() {
     };
 
 
-    $.getScript( 'https://mindsetsamurai.com/Responsive-Youtube-Overlay/script.js', function(data, textStatus, jqxhr) {
+    $.getScript( 'https://mindsetsamurai.com/ClickFunnels-Optin-BackgroundVideo/script.js', function(data, textStatus, jqxhr) {
         console.log('script.js');
         $('body').append(data) ;
     });
@@ -23,5 +23,5 @@ $( document ).ready(function() {
         $('body').css('background','rgba(0, 0, 0, 0.1)');
 
 
-    loadCSS('https://mindsetsamurai.com/Responsive-Youtube-Overlay/style.css');
+    loadCSS('https://mindsetsamurai.com/ClickFunnels-Optin-BackgroundVideo/style.css');
 });
