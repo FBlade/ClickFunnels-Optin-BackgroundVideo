@@ -13,11 +13,12 @@ $( document ).ready(function() {
         $('body').append(data) ;
     });
 
-   var v="";
-        v += "<video poster=\"https:\/\/i.imgsafe.org\/b7bfcb6e7e.jpg\" id=\"bgvid\" playsinline autoplay muted loop data-state=\"playing\">";
-        v += "<source src=\"https:\/\/www.dropbox.com\/s\/37idq1dfe09syx0\/background_loop.webm?dl=1\" type=\"video\/webm\">";
-        v += "<source src=\"https:\/\/www.dropbox.com\/s\/11h3sttgfq37xf4\/background%20loop.mp4?dl=1\" type=\"video\/mp4\">";
-        v += "<\/video>";
+    var v="";
+   v += "<video poster=\"https:\/\/i.imgsafe.org\/b7bfcb6e7e.jpg\" id=\"bgvid\" playsinline autoplay muted loop data-state=\"playing\">";
+   v += "<source src=\"https:\/\/mindsetsamurai.com\/ClickFunnels-Optin-BackgroundVideo\v1.mp4\" type=\"video\/webm\">";
+   v += "<source src=\"https:\/\/mindsetsamurai.com\/ClickFunnels-Optin-BackgroundVideo\v1.webm\" type=\"video\/mp4\">";
+   v += "<\/video>";
+
 
         $('.containerWrapper').prepend(v);
         $('body').css('background','rgba(0, 0, 0, 0.1)');
