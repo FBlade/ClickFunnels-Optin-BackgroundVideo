@@ -1,4 +1,4 @@
 
-
-    var vid = $('#bgvid');
-    alert('x');
+/*Optional Code... */
+    //var vid = $('#bgvid');
+ 
